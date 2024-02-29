@@ -29,10 +29,10 @@
 
 ### My latest open-source library
 
-| 平台      | 版本                                                                                                                         | 源码                                                                         | 备注                   |
-|---------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------|
-| Android | [![](https://jitpack.io/v/AndroidCoderPeng/Androidx-lite-lib.svg)](https://jitpack.io/#AndroidCoderPeng/Androidx-lite-lib) | [Androidx-lite-lib](https://github.com/AndroidCoderPeng/Androidx-lite-lib) | Java版本Android基础依赖包   |
-| Kotlin  | [![](https://jitpack.io/v/AndroidCoderPeng/Kotlin-lite-lib.svg)](https://jitpack.io/#AndroidCoderPeng/Kotlin-lite-lib)     | [Kotlin-lite-lib](https://github.com/AndroidCoderPeng/Kotlin-lite-lib)     | Kotlin版本Android基础依赖包 |
+| 语言     | 版本                                                                                                                         | 源码                                                                         | 备注                   |
+|--------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------|
+| Java   | [![](https://jitpack.io/v/AndroidCoderPeng/Androidx-lite-lib.svg)](https://jitpack.io/#AndroidCoderPeng/Androidx-lite-lib) | [Androidx-lite-lib](https://github.com/AndroidCoderPeng/Androidx-lite-lib) | Java版本Android基础依赖包   |
+| Kotlin | [![](https://jitpack.io/v/AndroidCoderPeng/Kotlin-lite-lib.svg)](https://jitpack.io/#AndroidCoderPeng/Kotlin-lite-lib)     | [Kotlin-lite-lib](https://github.com/AndroidCoderPeng/Kotlin-lite-lib)     | Kotlin版本Android基础依赖包 |
 
 ### My open-source software
 
@@ -44,7 +44,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=AndroidCoderPeng&show_icons=true&theme=aura&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndroidCoderPeng&layout=compact&theme=aura)
-
-
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=AndroidCoderPeng)
