@@ -23,8 +23,14 @@
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/-Spring Boot-green?style=flat&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/-WPF-blue?style=flat&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/-WPF-4a2bca?style=flat&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/-Qt-green?style=flat&logo=qt&logoColor=white">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Android-LimeGreen?style=flat&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/-iOS-black?style=flat&logo=apple&logoColor=white">
+  <img src="https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/-Linux-ee462c?style=flat&logo=linux&logoColor=white">
 </div>
 
 ### My latest open-source library
