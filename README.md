@@ -12,25 +12,20 @@
   2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 -->
 <div align="center">
-  <img src="https://img.shields.io/badge/-Java-f6da1c?style=flat&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-F6DA1C?style=flat&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/-Kotlin-purple?style=flat&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/-C Sharp-green?style=flat&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/-Swift-orange?style=flat&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/-C++-grey?style=flat&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/-SQL-red?style=flat&logo=mysql&logoColor=white">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/-Spring Boot-green?style=flat&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/-WPF-4a2bca?style=flat&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/-Qt-green?style=flat&logo=qt&logoColor=white">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/-Android-LimeGreen?style=flat&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/-iOS-black?style=flat&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/-Linux-ee462c?style=flat&logo=linux&logoColor=white">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Spring Boot-green?style=flat&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/-WPF-4a2bca?style=flat&logo=dotnet&logoColor=white">
 </div>
 
 ### My latest open-source library
