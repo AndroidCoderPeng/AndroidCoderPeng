@@ -37,9 +37,9 @@
 
 ### My open-source software
 
-| 平台      | 软件名     | 源码                                                                 | 下载地址                                                                                                       |
-|---------|---------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Windows | 软著代码生成器 | [CodeGenerator](https://github.com/AndroidCoderPeng/CodeGenerator) | [CodeGenerator.exe](https://github.com/AndroidCoderPeng/CodeGenerator/blob/main/Example/CodeGenerator.exe) |
+| 平台      | 软件名     | 源码                                                                 | 下载地址                                                                                                                 |
+|---------|---------|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Windows | 软著代码生成器 | [CodeGenerator](https://github.com/AndroidCoderPeng/CodeGenerator) | [CodeGeneratorSetup.exe](https://github.com/AndroidCoderPeng/CodeGenerator/blob/main/Example/CodeGeneratorSetup.exe) |
 
 ### Then, Here are my Github statistics ! You are my ![Visitor Count](https://profile-counter.glitch.me/AndroidCoderPeng/count.svg) visitor !
 
