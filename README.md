@@ -35,8 +35,8 @@
 
 | 语言     | 版本                                                                                                                         | 源码                                                                         | 备注                   |
 |--------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------|
-| Java   | [![](https://jitpack.io/v/AndroidCoderPeng/Androidx-lite-lib.svg)](https://jitpack.io/#AndroidCoderPeng/Androidx-lite-lib) | [Androidx-lite-lib](https://github.com/AndroidCoderPeng/Androidx-lite-lib) | Java版本Android基础依赖包   |
 | Kotlin | [![](https://jitpack.io/v/AndroidCoderPeng/Kotlin-lite-lib.svg)](https://jitpack.io/#AndroidCoderPeng/Kotlin-lite-lib)     | [Kotlin-lite-lib](https://github.com/AndroidCoderPeng/Kotlin-lite-lib)     | Kotlin版本Android基础依赖包 |
+| Java   | [![](https://jitpack.io/v/AndroidCoderPeng/Androidx-lite-lib.svg)](https://jitpack.io/#AndroidCoderPeng/Androidx-lite-lib) | [Androidx-lite-lib](https://github.com/AndroidCoderPeng/Androidx-lite-lib) | Java版本Android基础依赖包   |
 
 ### My open-source software
 
@@ -46,7 +46,7 @@
 
 ### Then, Here are my Github statistics ! You are my ![Visitor Count](https://profile-counter.glitch.me/AndroidCoderPeng/count.svg) visitor !
 
-![](https://github-readme-stats.vercel.app/api?username=AndroidCoderPeng&show_icons=true&theme=aura&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndroidCoderPeng&layout=compact&theme=aura)
+![](https://github-readme-stats.vercel.app/api?username=AndroidCoderPeng&show_icons=true&theme=aura&hide=contribs)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndroidCoderPeng&layout=compact&theme=aura&size_weight=0&count_weight=1)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=AndroidCoderPeng)
+![](https://github-readme-activity-graph.vercel.app/graph?username=AndroidCoderPeng&theme=react-dark)
