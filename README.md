@@ -48,5 +48,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=AndroidCoderPeng&show_icons=true&theme=aura&hide=contribs)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndroidCoderPeng&layout=compact&theme=aura&size_weight=0&count_weight=1)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=AndroidCoderPeng&theme=react-dark)
