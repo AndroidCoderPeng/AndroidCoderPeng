@@ -40,9 +40,10 @@
 
 ### My open-source software
 
-| 平台      | 软件名     | 源码                                                                 | 下载地址                                                                                                       |
-|---------|---------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Windows | 软著代码生成器 | [CodeGenerator](https://github.com/AndroidCoderPeng/CodeGenerator) | [CodeGenerator.zip](https://github.com/AndroidCoderPeng/CodeGenerator/blob/main/Example/CodeGenerator.zip) |
+| 平台            | 软件名     | 源码                                                                             | 下载地址                                                                                                   |
+|---------------|---------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Windows       | 软著代码生成器 | [CodeGenerator](https://github.com/AndroidCoderPeng/CodeGenerator)             | [CodeGenerator](https://github.com/AndroidCoderPeng/CodeGenerator/blob/main/Example/CodeGenerator.zip) |
+| Windows/Linux | 串口调试助手  | [SerialPortDebugger](https://github.com/AndroidCoderPeng/serial_port_debugger) | [SerialPortDebugger](https://github.com/AndroidCoderPeng/serial_port_debugger/releases)                |
 
 ### Then, Here are my Github statistics ! You are my ![Visitor Count](https://profile-counter.glitch.me/AndroidCoderPeng/count.svg) visitor !
 
