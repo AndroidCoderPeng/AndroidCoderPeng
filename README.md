@@ -45,7 +45,7 @@
 | Windows       | 软著代码生成器 | [CodeGenerator](https://github.com/AndroidCoderPeng/CodeGenerator)             | [CodeGenerator](https://github.com/AndroidCoderPeng/CodeGenerator/blob/main/Example/CodeGenerator.zip) |
 | Windows/Linux | 串口调试助手  | [SerialPortDebugger](https://github.com/AndroidCoderPeng/serial_port_debugger) | [SerialPortDebugger](https://github.com/AndroidCoderPeng/serial_port_debugger/releases)                |
 
-### Then, Here are my Github statistics ! You are my ![Visitor Count](https://profile-counter.glitch.me/AndroidCoderPeng/count.svg) visitor !
+### Then, Here are my Github statistics !
 
 ![](https://github-readme-stats.vercel.app/api?username=AndroidCoderPeng&show_icons=true&theme=aura&hide=contribs)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndroidCoderPeng&layout=compact&theme=aura&size_weight=0&count_weight=1)
