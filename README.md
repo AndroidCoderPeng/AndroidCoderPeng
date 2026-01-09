@@ -12,23 +12,24 @@
   2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 -->
 <div align="center">
-    <img src="https://img.shields.io/badge/-Java-B07219?style=flat&logo=oracle&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/-Kotlin-A97BFF?style=flat&logo=kotlin&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/-C Sharp-178600?style=flat&logo=sharp&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/-Java-E76F00?style=flat&logo=coffeescript&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/-C%23-68217A?style=flat&logo=resharper&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/-C++-0F4C75?style=flat&logo=cplusplus&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/-Swift-FC575E?style=flat&logo=swift&logoColor=white" alt="">
 </div>
 <div align="center">
-    <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/-Windows-0078D7?style=flat&logo=dotnet&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/-iOS-black?style=flat&logo=apple&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/-Android-A4C639?style=flat&logo=android&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=dotnet&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/-iOS-000000?style=flat&logo=apple&logoColor=white" alt="">
 </div>
 <div align="center">
-    <img src="https://img.shields.io/badge/-WPF-512BD4?style=flat&logo=fsharp&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/-Spring Boot-6CB52D?style=flat&logo=springboot&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/-WPF-0078D4?style=flat&logo=fsharp&logoColor=white" alt="">
 </div>
 <div align="center">
-    <img src="https://img.shields.io/badge/-JNI-555555?style=flat&logo=c&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/-Qt-2CDE85?style=flat&logo=cplusplus&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/-JNI-555555?style=flat&logo=cplusplus&logoColor=white" alt="">
 </div>
 
 ### My latest open-source library
@@ -40,12 +41,6 @@
 
 ### My open-source software
 
-| 平台            | 软件名     | 源码                                                                             | 下载地址                                                                                                   |
-|---------------|---------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Windows       | 软著代码生成器 | [CodeGenerator](https://github.com/AndroidCoderPeng/CodeGenerator)             | [CodeGenerator](https://github.com/AndroidCoderPeng/CodeGenerator/blob/main/Example/CodeGenerator.zip) |
-| Windows/Linux | 串口调试助手  | [SerialPortDebugger](https://github.com/AndroidCoderPeng/serial_port_debugger) | [SerialPortDebugger](https://github.com/AndroidCoderPeng/serial_port_debugger/releases)                |
-
-### Then, Here are my Github statistics !
-
-![](https://github-readme-stats.vercel.app/api?username=AndroidCoderPeng&show_icons=true&theme=aura&hide=contribs)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndroidCoderPeng&layout=compact&theme=aura&size_weight=0&count_weight=1)
+| 平台      | 软件名     | 源码                                                                 | 下载地址                                                                                                       |
+|---------|---------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Windows | 软著代码生成器 | [CodeGenerator](https://github.com/AndroidCoderPeng/CodeGenerator) | [CodeGenerator.zip](https://github.com/AndroidCoderPeng/CodeGenerator/blob/main/Example/CodeGenerator.zip) |
