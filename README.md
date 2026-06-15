@@ -42,9 +42,10 @@
 
 ### Tools
 
-| Platform | Name    |                               Source                               |                                               Download                                               |
-|:--------:|:--------|:------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
-| Windows  | 软著代码生成器 | [CodeGenerator](https://github.com/AndroidCoderPeng/CodeGenerator) | [📥 Download](https://github.com/AndroidCoderPeng/CodeGenerator/blob/main/Example/CodeGenerator.zip) |
+|     Platform      | Name    |                                    Source                                    |                                               Download                                               |
+|:-----------------:|:--------|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
+|      Windows      | 软著代码生成器 |      [CodeGenerator](https://github.com/AndroidCoderPeng/CodeGenerator)      | [📥 Download](https://github.com/AndroidCoderPeng/CodeGenerator/blob/main/Example/CodeGenerator.zip) |
+| Windows/Linux/Mac | 串口调试工具  | [SerialPortDebugger](https://github.com/AndroidCoderPeng/SerialPortDebugger) |                                                                                                      |
 
 ---
 
