@@ -5,23 +5,18 @@
 -->
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F52FF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+AndroidCoderPeng;%F0%9F%94%A5+Passionate+about+technology;%F0%9F%93%B1+Building+cross‑platform+apps;%E2%9C%A8+Open+source+enthusiast" alt="Typing SVG">
-  </a>
-</div>
 
-<div align="center">
-  <br/>
-  <p>
-    📱 &nbsp;<b>Android</b>&nbsp;&nbsp;
-    🍎 &nbsp;<b>iOS</b>&nbsp;&nbsp;
-    🪟 &nbsp;<b>Windows</b>&nbsp;&nbsp;
-    ☁️ &nbsp;<b>Backend</b>
-  </p>
-  <samp>
-    🚀 &nbsp;<b>Cross‑platform developer</b>&nbsp; · &nbsp;crafting elegant software with passion<br/>
-    <sub>Kotlin &nbsp;|&nbsp; Java &nbsp;|&nbsp; C++ &nbsp;|&nbsp; C# &nbsp;|&nbsp; Swift &nbsp;|&nbsp; Qt &nbsp;|&nbsp; WPF</sub>
-  </samp>
+<h1>
+  👋 Hi, I'm <span style="color: #7F52FF;">AndroidCoderPeng</span>
+</h1>
+
+<p>
+  🚀 &nbsp;A <b>cross‑platform developer</b> passionate about crafting elegant software.<br/>
+  Focused on <b>Android</b> / <b>iOS</b> / <b>Windows</b> / <b>Backend</b> development,<br/>
+  building with <b>Kotlin</b>, <b>Java</b>, <b>C++</b>, <b>C#</b> and <b>Swift</b>,<br/>
+  using frameworks like <b>Spring Boot</b>, <b>WPF</b>, <b>Qt</b> and <b>JNI</b>.
+</p>
+
 </div>
 
 ---
